@@ -7,9 +7,9 @@
 	background-color:white;
 	padding:10px;
 	margin:20px;
-	border: 1px solid;
+	border: 1px solid ;
 }
-#author{
+#author,#author2{
 	text-align: right;
 	font-style: italic;
 }
